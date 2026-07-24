@@ -4,7 +4,8 @@
 ![Multi-Modal Architecture](macrocycle_model_architecture.png)
 
 
-git clone 
+git clone git@github.com:SureshGXAI/Macrocycle_Multi_Modal.git
+cd Macrocycle_Multi_Modal
 
 pip install -r requirements.txt
 
